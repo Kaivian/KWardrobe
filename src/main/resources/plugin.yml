@@ -2,7 +2,7 @@ name: KWardrobe
 version: '1.0.0'
 main: io.github.kaivian.KWardrobe.KWardrobe
 api-version: '1.21'
-prefix: LCollection
+prefix: KWardrobe
 load: STARTUP
-authors: [ LucFr ]
-website: https://github.com/LucFr1746
+authors: [ Kaivian ]
+website: https://github.com/Kaivian
