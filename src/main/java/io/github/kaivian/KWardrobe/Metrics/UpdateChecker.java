@@ -1,6 +1,6 @@
-package io.github.lucfr1746.KWardrobe.Metrics;
+package io.github.kaivian.KWardrobe.Metrics;
 
-import io.github.lucfr1746.KWardrobe.KWardrobe;
+import io.github.kaivian.KWardrobe.KWardrobe;
 
 import java.io.IOException;
 import java.io.InputStream;

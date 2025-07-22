@@ -1,7 +1,7 @@
-package io.github.lucfr1746.KWardrobe;
+package io.github.kaivian.KWardrobe;
 
-import io.github.lucfr1746.KWardrobe.Metrics.UpdateChecker;
-import io.github.lucfr1746.KWardrobe.Metrics.bStatsMetrics;
+import io.github.kaivian.KWardrobe.Metrics.UpdateChecker;
+import io.github.kaivian.KWardrobe.Metrics.bStatsMetrics;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.java.JavaPlugin;
 

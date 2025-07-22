@@ -1,4 +1,4 @@
-package io.github.lucfr1746.KWardrobe.Metrics;
+package io.github.kaivian.KWardrobe.Metrics;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
